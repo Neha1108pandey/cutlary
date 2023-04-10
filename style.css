@@ -1,0 +1,60 @@
+html{
+    font-size: 100.5%;
+    text-decoration: blanchedalmond;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat' ,sans-serif;
+}
+
+.navbar{
+    background-color: rgb(102, 68, 82);
+    text-decoration: blanchedalmond;
+    
+}
+.nav-link{
+    color: aliceblue;
+    text-size-adjust: 25%;
+    line-height: 10px;
+    padding-right: 10px;
+    padding : 0 20px 0 20px;
+    text-align: justify;
+}
+
+.navbar-brand img{
+    background-color: aqua;
+}
+nav ul li{
+    display: inline-block;
+    text-align:center;
+    padding : 0 20px 0 20px;
+    
+    }
+.navbar-brand{
+    color: aliceblue;
+    font-size: 100%;
+    text-align: center;
+    
+}
+.navbar-nav{
+    text-align: center;
+    line-height: normal;
+}
+.form-control{
+    display: block;
+    margin-right: auto;
+    width: 70%;
+    
+}
+.form-inline{
+    display: inline-flex;
+    box-sizing:border-box;
+}
+.btn {
+    width: fit-content;
+    color: grey;
+    background-color:rosybrown;
+    margin-right: auto;
+
+}
